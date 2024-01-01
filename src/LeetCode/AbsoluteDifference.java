@@ -1,7 +1,7 @@
 package LeetCode;
 
 public class AbsoluteDifference {
-//    Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+// Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 public static void main(String[] arg){
     int[][] sqMatrix={{1,2,3},{4,5,6},{9,8,9}};
     int value=AbsoluteDiff(sqMatrix);
